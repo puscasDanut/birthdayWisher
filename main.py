@@ -4,8 +4,8 @@ import smtplib
 import datetime as dt
 from random import randint
 
-my_email = "test5242023@gmail.com"
-password = "fswawynrbqtdfejn"
+my_email = "youremail@gmail.com"
+password = "yourpassword"
 
 main_dir = os.path.dirname(__file__)
 
